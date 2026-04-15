@@ -1,11 +1,12 @@
 ---
 title: "First R Markdown"
 output: html_document
-date: "2026-04-14"
+date: "2026-04-16"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+print("learing r studio")
 ```
 
 ## R Markdown
